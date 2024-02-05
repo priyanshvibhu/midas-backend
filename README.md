@@ -19,7 +19,7 @@ Run the Application
 
 View Stripe Dashboard
 1. Log in to your Stripe Dashboard.
-2. In the Dashboard, you should see information related to the payments made using the application.
+2. In the Dashboard, you should see information related to the user.
 
 Additional Notes
 1. Make sure your Stripe account is in test mode, and you are using test API keys.
