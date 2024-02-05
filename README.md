@@ -15,7 +15,7 @@ Run the Application
 1. Run the application.
 2. Open your browser and navigate to http://localhost:8080.
 3. Enter the user's name and email in the provided form.
-4. Submit the form to trigger the Stripe payment process.
+4. Submit the form.
 
 View Stripe Dashboard
 1. Log in to your Stripe Dashboard.
